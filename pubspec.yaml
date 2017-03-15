@@ -1,0 +1,9 @@
+author: "Tobe O <thosakwe@gmail.com>"
+description: "Read and build PE files in Dart..."
+homepage: "https://github.com/thosakwe/dart_pe.git"
+name: "pe"
+version: "0.0.0"
+environment:
+  sdk: ">=1.19.0"
+dependencies:
+  charcode: ^1.0.0
